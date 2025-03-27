@@ -13,13 +13,13 @@
     <br />
 </div>
 
-## About
-**A WhatsApp API client that connects through the WhatsApp Web browser app**
+## Sobre
+**Um cliente de API do WhatsApp que se conecta por meio do aplicativo do navegador WhatsApp Web**
 
-The library works by launching the WhatsApp Web browser application and managing it using Puppeteer to create an instance of WhatsApp Web, thereby mitigating the risk of being blocked. The WhatsApp API client connects through the WhatsApp Web browser app, accessing its internal functions. This grants you access to nearly all the features available on WhatsApp Web, enabling dynamic handling similar to any other Node.js application.
+A biblioteca funciona iniciando o aplicativo do navegador WhatsApp Web e gerenciando-o usando o Puppeteer para criar uma instância do WhatsApp Web, mitigando assim o risco de ser bloqueado. O cliente da API do WhatsApp se conecta por meio do aplicativo do navegador WhatsApp Web, acessando suas funções internas. Isso lhe concede acesso a quase todos os recursos disponíveis no WhatsApp Web, permitindo um manuseio dinâmico semelhante a qualquer outro aplicativo Node.js.
 
-> [!IMPORTANT]
-> **It is not guaranteed you will not be blocked by using this method. WhatsApp does not allow bots or unofficial clients on their platform, so this shouldn't be considered totally safe.**
+> [!IMPORTANTEE]
+> **Não há garantia de que você não será bloqueado usando esse método. O WhatsApp não permite bots ou clientes não oficiais em sua plataforma, então isso não deve ser considerado totalmente seguro.**
 
 ## Links
 
